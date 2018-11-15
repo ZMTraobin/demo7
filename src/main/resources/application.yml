@@ -1,0 +1,15 @@
+spring:
+   mail:
+   #邮箱地址
+      host: smtp.qq.com
+      #QQ邮箱
+      username: 1900402045@qq.com
+      #\u5bc6\u7801
+      password: abmsabejkacbbhai
+      default-encoding: UTF-8
+      #\u4ee5\u8c01\u6765\u53d1\u9001\u90ae\u4ef6
+      
+   fromMail:
+     addr: 1900402045@qq.com
+   toMail:  
+     addr:15810459893@163.com
